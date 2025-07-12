@@ -1,4 +1,7 @@
 # Routing
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fn3d1117%2FRouting%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/n3d1117/Routing)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fn3d1117%2FRouting%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/n3d1117/Routing)
+
 A type-safe, declarative routing system for SwiftUI applications. Supports both navigation stack (push) and modal (sheet, fullScreenCover) presentations, with optional deep linking and state restoration features.
 
 ## Features
